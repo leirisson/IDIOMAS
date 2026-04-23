@@ -15,20 +15,20 @@
 
 ## Affirmative
 
-- I am happy → eu estou feliz
-- I am a student → eu sou um estudante
-- You are tired → você está cansado
-- You are my friend → você é meu amigo
-- He is tall → ele é alto
-- He is at home → ele está em casa
-- She is smart → ela é inteligente
-- She is ready → ela está pronta
-- It is cold → está frio
-- It is a dog → é um cachorro
-- We are together → nós estamos juntos
-- We are a team → nós somos uma equipe
-- They are late → eles estão atrasados
-- They are teachers → eles são professores
+# I am happy → eu estou feliz
+# I am a student → eu sou um estudante
+# You are tired → você está cansado
+# You are my friend → você é meu amigo
+# He is tall → ele é alto
+# He is at home → ele está em casa
+# She is smart → ela é inteligente
+# She is ready → ela está pronta
+# It is cold → está frio
+# It is a dog → é um cachorro
+# We are together → nós estamos juntos
+# We are a team → nós somos uma equipe
+# They are late → eles estão atrasados
+# They are teachers → eles são professores
 
 ---
 
